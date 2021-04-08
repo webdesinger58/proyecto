@@ -1,7 +1,7 @@
 
 body {
     color:purple;
-    background-color: #6EB5FF;
+    background-color: #AFF8DB;
      }
 
 
@@ -14,6 +14,8 @@ body {
     left: 1em;
     width: 9em;
      }
+
+
 
      ul.navbar li {
         background: white;
@@ -33,7 +35,7 @@ body {
             border-top: thin dotted}
 h1{
  font-family: Ilelvetica, 
- color: black;
+ color: blue;
   }
 h2{
   color:red;
@@ -43,5 +45,5 @@ h3{
  color:green;
   }
 h6{
-     color:black;
+     color:#97A2FF;
     }
